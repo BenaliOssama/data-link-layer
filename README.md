@@ -22,3 +22,5 @@ A learning implementation of **data link layer protocols** in Rust, built on top
    git clone https://github.com/yourusername/data-link-layer.git
    cd data-link-layer
 
+### resources
+https://www.cs.fsu.edu/~xyuan/cen5515/
